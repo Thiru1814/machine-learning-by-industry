@@ -3,8 +3,8 @@ Looking for what <i>you</i> can do with ML?
 
 Look no further, heres a big list of machine learning examples you can use to get started with ML in your industry. All credit goes to the passionate coders out there who are sharing their code out there on github!
 
-Happy coding!
-
+Happy coding! Thiru
+This is the list of popular real life Examples 
 <b>Healthcare</b>
 <ul>
 <li><a href="https://github.com/Issam28/Brain-tumor-segmentation">Tumour Segmentation</a></li>
